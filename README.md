@@ -1,1 +1,1 @@
-# go-ray-tracer
+# go-ray-tracer (WIP)
